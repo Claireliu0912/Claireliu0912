@@ -1,8 +1,8 @@
 ### Hi there, I'm [Claire Liu](https://github.com/Claireliu0912) 👋
 
-I am a Master's student in Computer Science and Technology at Tongji University, and I completed my undergraduate studies at **Tongji University**.
+I am a Master student in Computer Science and Technology at Tongji University, and I completed my undergraduate studies at **Tongji University**.
 
-My passion lies at the intersection of Graph Deep Learning and its practical applications in FinTech. I am particularly focused on developing advanced models for Financial Anti-Fraud, leveraging the power of Graph Neural Networks to detect and prevent illicit activities in complex financial systems. 
+My research interest lies at the intersection of Graph Deep Learning and its practical applications in FinTech. I am particularly focused on developing advanced models for Financial Anti-Fraud, leveraging the power of Graph Neural Networks to detect and prevent illicit activities in complex financial systems. 
 
 I am actively seeking academic collaborations where I can contribute to cutting-edge research and make a meaningful impact.
 
